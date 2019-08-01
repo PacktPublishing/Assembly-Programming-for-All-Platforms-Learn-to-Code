@@ -1,0 +1,13 @@
+https://hackr.io/tutorials/learn-assembly-language
+
+https://www.whoishostingthis.com/resources/assembly-language/
+
+http://www.pravaraengg.org.in/Download/MA/assembly_tutorial.pdf
+
+https://gitconnected.com/learn/assembly-language
+
+https://asmtutor.com/
+
+https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+
+http://win32assembly.programminghorizon.com/tutorials.html
